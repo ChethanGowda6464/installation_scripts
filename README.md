@@ -1,3 +1,4 @@
+
 ## start TeamCity server as docker container
     docker run \
     -v team_city_data:/data/teamcity_server/datadir \
@@ -23,3 +24,4 @@
     chmod 666 /var/run/docker.sock
     
 ![image](https://user-images.githubusercontent.com/35370115/161730805-06096c00-fa2d-4e52-b010-870430f6cfbf.png)
+# installation_scripts
